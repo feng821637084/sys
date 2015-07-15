@@ -1,0 +1,100 @@
+*{
+	font-family: "Tahoma", "ËÎÌו", "Arial", "Verdana";
+	font-size: 9pt;
+}
+body {
+	font-family: "Tahoma", "ËÎÌו", "Arial", "Verdana";
+	font-size: 9pt;
+	background-color:#fff;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+select,input[type='text'],input[type='password'] {
+	width:180px;
+}
+input[type='button'],button {
+	color: #44d;
+	cursor: pointer;
+}
+
+textarea{
+	width:300px;
+	height:60px;
+}
+input[disabled],
+select[disabled],
+textarea[disabled],
+input[readonly],
+select[readonly],
+textarea[readonly] {
+  /*
+  background-color: #f5f5f5;
+  border-color: #ddd;
+  cursor: not-allowed;
+  border-color: #ddd;
+  color: #444;
+  background-color: #fefefe;
+  */
+
+  /**cursor: pointer;*/
+}
+input[type="checkbox"],input[type="radio"]{
+	margin: 0px;
+	cursor: pointer;
+}
+
+
+.codeDiv{
+	border:1px solid #9BDF70;margin:4px;margin-bottom:8px;padding-bottom:4px;font-size:9pt
+	border-radius: 11px;
+}
+.codeDivHeader{
+	background-color:#9BDF70;margin:0px;padding:2px;font-size:12pt;
+	border-radius: 1px;
+}
+
+input[type=button]{
+	width:100px;
+}
+*{
+font-size:9pt;
+}
+
+
+input.button {
+  padding: 1px 10px;
+
+  font: 400 1em georgia, sans-serif;
+  cursor: pointer;
+border-radius: 11px;
+  color: #fff;
+  background: #508231;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #B8E78B #2D5018 #2D5018 #B8E78B;
+}
+
+input.button:hover {
+  background:#318182;
+  border-color: #8be7df #18504b #18504b #8be7df;
+}
+input{
+	margin:2px 2px 2px 10px ;
+	border-radius: 11px;
+	}
+	
+div{
+	
+	/**box-shadow:5px 2px 6px #99ff99;**/
+	}
+	textarea{
+	border-radius: 11px;
+	}
+	
+		select{
+	border-radius: 11px;
+	}

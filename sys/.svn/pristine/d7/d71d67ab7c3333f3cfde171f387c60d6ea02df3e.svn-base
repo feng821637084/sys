@@ -1,0 +1,6 @@
+#mysql version database setting
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.username=test_sysdb
+jdbc.password=test_sysdb
+jdbc.url=jdbc:mysql://tuiwanli.mysql.rds.aliyuncs.com:3306/test_sysdb?useUnicode=true&characterEncoding=utf8
+
